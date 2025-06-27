@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherCardStyled renders correctly 1`] = `
+<div
+  class="sc-fhHczv kKUCfa"
+  condition="Clear"
+>
+  Sunny
+</div>
+`;
